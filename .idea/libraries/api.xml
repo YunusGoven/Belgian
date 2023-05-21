@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../javacard/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/java_card_kit-2_2_2-rr-bin-windows-do/lib/api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../javacard/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/java_card_kit-2_2_2-rr-bin-windows-do/lib/javacardframework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

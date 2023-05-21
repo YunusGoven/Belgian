@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apduio">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/javacard/Cashier/apduio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
